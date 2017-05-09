@@ -1,0 +1,1621 @@
+.full {
+	position: relative;
+	width: 100%;
+}
+
+#header {
+	height: 724;
+	background-image:  url(../img/logo.png),url(../img/main.png),url(../img/layer.png);
+	background-repeat: no-repeat;
+	background-position: 1145px 15px,78px 0,-241px 0;
+}
+
+#urgent_care {
+	height: 457;
+}
+
+#services {
+	height: 581;
+}
+
+#questions {
+	height: 631;
+}
+
+#locations {
+	height: 501;
+}
+
+#footer {
+	height: 273;
+	background-image: url(../img/aaos_logo.png);
+	background-repeat: no-repeat;
+	background-position: 582px 248px;
+}
+
+#nav_bar {
+	height: 75px;
+	padding-top: 31px;
+}
+
+#nav_bar ul {
+  	padding-left: 0px;
+}
+
+#nav_bar ul a li {
+	display: inline-block;
+	margin-right: 47px;
+	font-size: 14px;
+	color: #666666;
+}
+
+#nav_bar ul a {
+	color: #666666;
+}
+
+#quote {
+	margin-top: 159px;
+}
+
+#i_made p{
+	color: white;
+	font-family: "ITCAvantGardeStd-BoldCn";
+	font-size: 90px;
+	margin-bottom: 0px;
+	line-height:77px;
+}
+
+#it_pop {
+	padding-right: 0px;
+  	width: 317px;
+  	padding-left: 0px;
+}
+
+#it_pop_kelsy {
+	padding-left: 0px;
+}
+
+#kelsy p{
+	color: white;
+	font-family: "ITCAvantGardeStd-XLtCn";
+	font-size: 39px;
+	line-height:35px;
+}
+
+.acl {
+	font-size: 26px !important;
+}
+
+
+#pops_snaps p{
+	color: white;
+	font-family: "ITCAvantGardeStd-MdCn";
+	font-size: 30px;
+	color: #666666;
+	text-transform: uppercase;
+	text-align: center;
+	height: 30px;
+	line-height:84px;
+}
+
+#dont_have p{
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 44px;
+	color: #666666;
+	text-transform: uppercase;
+	text-align: center;
+	height: 45px;
+	line-height:86px;
+}
+
+#we_now p {
+	color: #02917f;
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 65px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#content {
+	margin-top: 55px;
+}
+
+#orthopedic p{
+	color: #b9b9b9;
+	font-family: "ITCAvantGardeStd-XLt";
+	font-size: 18px;
+	text-align: center;
+}
+
+#button_blue {
+	margin-top: 29px;
+}
+
+#button_blue p{
+	color: white;
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #1a2670;
+	height: 61px;
+	width: 339px;
+	margin-bottom: 0px;
+  	padding-top: 20px;
+}
+
+#button_blue a {
+	text-decoration: none;
+}
+
+#services {
+	background-color: #f3f3f3;
+	background-image: url(../img/shape3.png);
+	background-repeat: no-repeat;
+	background-position: 336px 73px;
+}
+
+#service1 {
+	padding-top: 385px;
+	background-image: url(../img/vector1.png),url(../img/shape.png);
+	background-repeat: no-repeat;
+	background-position: 109px 162px,24px 111px;
+}
+
+#service2 {
+	padding-top: 385px;
+	background-image: url(../img/vector3.png),url(../img/shape2.png);
+	background-repeat: no-repeat;
+	background-position: 109px 162px,24px 111px;
+}
+
+#service3 {
+	padding-top: 385px;
+	background-image: url(../img/vector1.png),url(../img/shape.png);
+	background-repeat: no-repeat;
+	background-position: 109px 162px,24px 111px;
+}
+
+#service4 {
+	padding-top: 385px;
+	background-image: url(../img/vector3.png),url(../img/shape.png);
+	background-repeat: no-repeat;
+	background-position: 109px 162px,24px 111px;
+}
+
+#service_title {
+	padding-left: 47px;
+  	padding-right: 47px;
+}
+
+#service_title p{
+	color: #666666;
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 18px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#service_text {
+	padding-left: 26px;
+  	padding-right: 26px;
+}
+
+#service_text p{
+	color: #b9b9b9;
+	font-family: "ITCAvantGardeStd-XLtCn";
+	font-size: 16px;
+	text-align: center;
+}
+
+#button_blue2 p{
+	color: white;
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #1a2670;
+	height: 61px;
+	width: 339px;
+	margin-bottom: 0px;
+  	padding-top: 20px;
+}
+
+#button_blue2 a {
+	text-decoration: none;
+}
+
+#all_of_our p{
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 34px;
+  	color: #02917f;
+  	text-transform: uppercase;
+  	text-align: center;
+  	line-height: 34px;
+}
+
+#we_are_provide p{
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 20px;
+  	color: #666666;
+  	text-transform: uppercase;
+  	text-align: center;
+  	line-height: 22px;
+}
+
+#questions_div p{
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 32px;
+  	color: #02917f;
+  	text-transform: uppercase;
+  	text-align: center;
+}
+
+#need_to p{
+  	color: white;
+  	font-family: "ITCAvantGardeStd-XLtCn";
+  	font-size: 18px;
+  	color: #666666;
+  	text-transform: uppercase;
+  	text-align: center;
+  	line-height: 22px;
+}
+
+#locations {
+	background-color: #e0dcc5;
+	background-image: url(../img/ellipse.png);
+	background-repeat: no-repeat;
+	background-position: 495px 121px;
+}
+
+#all_of_our {
+	margin-top: 100px;
+}
+
+#we_are_provide {
+	margin-top: 47px;
+}
+
+#questions_div {
+	margin-top: 122px;
+}
+
+#questions {
+	background-image: url(../img/us_ski_team.png),url(../img/cu_buffaloes.png);
+	background-repeat: no-repeat;
+	background-position: 74px 162px,947px 168px;
+}
+
+#place_name1 {
+	color: #1a2670;
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 20px;
+  	text-transform: uppercase;
+  	text-align: right;
+  	line-height: 22px;
+
+}
+
+#place_adress1 {
+	color: #666666;
+  	font-family: "ITCAvantGardeStd-XLtCn";
+  	font-size: 18px;
+  	text-align: right;
+  	line-height: 22px;
+}
+
+.satelit {
+	font-size: 14px;
+}
+
+#view1 {
+	color: #1b2878;
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 18px;
+  	text-align: right;
+}
+
+#location a {
+	text-decoration: none;
+}
+
+#place_name2 {
+	color: #1a2670;
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 20px;
+  	text-transform: uppercase;
+  	text-align: left;
+  	line-height: 22px;
+}
+
+#place_adress2 {
+	color: #666666;
+  	font-family: "ITCAvantGardeStd-XLtCn";
+  	font-size: 18px;
+  	text-align: left;
+  	line-height: 22px;
+}
+
+#view2 {
+	color: #1b2878;
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 18px;
+  	text-align: left;
+}
+
+#location {
+	  margin-top: 112px;
+}
+
+#location_down {
+	margin-top: 64px;
+}
+
+#number_4 {
+	color: #e0dcc5;
+  	font-family: "ITCAvantGardeStd-Md";
+  	font-size: 80px;
+  	text-align: center;
+  	height: 81px;
+  	margin-bottom: 0px;
+  	margin-top: 25px;
+}
+
+#convenient {
+	color: #e0dcc5;
+  	font-family: "ITCAvantGardeStd-Md";
+  	font-size: 28px;
+  	text-align: center;
+}
+
+#scheduling {
+	color: #e0dcc5;
+  	font-family: "ITCAvantGardeStd-Md";
+  	font-size: 14px;
+  	text-align: center;
+}
+
+#footer {
+	height: 300px;
+	background-color: #1a2670;
+}
+
+#nav_bar_footer {
+	margin-top: 65px;
+}
+
+#nav_bar_footer ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#nav_bar_footer ul li {
+	text-decoration: none;
+	font-size: 15px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: #8ba7bf;
+	margin-bottom: 8px;
+}
+
+#social {
+	margin-top: 120px;
+	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+#facebook {
+	padding-top: 58px;
+	background-image: url(../img/facebook_icon.png);
+	background-repeat: no-repeat;
+}
+
+#twitter {
+  	padding-top: 58px;
+	background-image: url(../img/twitter_icon.png);
+	background-repeat: no-repeat;
+}
+
+#call_now_row {
+  	padding-left: 136px;
+}
+
+#call_now {
+	padding-top: 115px;
+}
+
+#call_now p{
+	font-size: 14px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: white;
+	text-align: center;
+	line-height: 0px;
+}
+
+#number_row {
+  	padding-left: 83px;
+}
+
+#number p{
+	font-size: 40px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: white;
+	text-align: center;
+}
+
+#about_our {
+	margin-top: 65px;
+}
+
+#about_our p{
+	font-size: 14px;
+	font-family: "ITCAvantGardeStd-Bold";
+	color: white;
+}
+
+#achieving p {
+	font-size: 13px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: white;
+}
+
+.boulder {
+	font-size: 13px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: #e8ddbd;
+	text-decoration: underline;
+}
+
+.inclined {
+	font-size: 13px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: #e8ddbd;
+}
+
+#header2 {
+	height: 339px;
+	background-image:  url(../img/logo.png),url(../img/main.png),url(../img/patternbg.png),url(../img/base_about.png);
+	background-repeat: no-repeat;
+	background-position: 1140px 10px,70px 0,360px 0,0px 0px;
+}
+
+#headline_title {
+	margin-top: 82px;
+  	margin-left: 24px;
+}
+
+#headline_title p{
+	font-size: 65px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: white;
+	height: 67px;
+	text-transform: uppercase;
+}
+
+#headline_sub_title {
+	margin-left: 38px;
+}
+
+#headline_sub_title p{
+	font-size: 18px;
+	font-family: "ITCAvantGardeStd-XLtCn";
+	color: white;
+}
+
+#selection_bar {
+	background-color: #02917f;
+	height: 71px;
+	background-image: url(../img/home_selection.png);
+	background-repeat: no-repeat;
+	background-position: 93px 23px;
+}
+
+#selection_bar p {
+	font-size: 15px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: white;
+	margin-top: 24px;
+  	margin-left: 95px;
+}
+
+#selection_bar p a {
+	color: white;
+	text-decoration: none;
+}
+
+.second_selection {
+	font-family: "ITCAvantGardeStd-XLt";
+}
+
+#button_blue3 p{
+	color: white;
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #1a2670;
+	height: 61px;
+	width: 339px;
+	margin-bottom: 0px;
+  	padding-top: 20px;
+}
+
+#button_blue3 a {
+	text-decoration: none;
+}
+
+#questions_div2 p{
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 32px;
+  	color: #02917f;
+  	text-transform: uppercase;
+  	text-align: center;
+}
+
+#need_to2 p{
+  	font-family: "ITCAvantGardeStd-XLtCn";
+  	font-size: 18px;
+  	color: #666666;
+  	text-transform: uppercase;
+  	text-align: center;
+  	line-height: 22px;
+}
+
+#about_content {
+	height: 1370px;
+	background-image:  url(../img/ski_us_about.png),url(../img/shape_about.png),url(../img/vector_first_aid.png);
+	background-repeat: no-repeat;
+	background-position: 981px 328px,909px 272px,933px 647px;
+}
+
+#our_history {
+	margin-top: 125px;
+}
+
+#our_history p {
+	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 18px;
+  	color: #b9b9b9;
+}
+
+.our_history {
+	color: #02917f;
+}
+
+#about_boulder_bone {
+	margin-top: 125px;
+	padding-left: 42px;
+  	padding-right: 21px;}
+
+#about_boulder_bone_text {
+	font-family: "ITCAvantGardeStd-BkCn";
+  	font-size: 45px;
+  	color: #02917f;
+  	margin-bottom: 0px;
+  	line-height: 47px;
+}
+
+.boulder_bone {
+	font-family: "ITCAvantGardeStd-Demi";
+}
+
+#questions_div_div {
+	margin-top: 215px;
+}
+
+#maecenas {
+	font-family: "ITCAvantGardeStd-Md";
+  	font-size: 18px;
+  	color: #666666;
+}
+
+#fusce {
+	font-family: "ITCAvantGardeStd-BkCn";
+  	font-size: 18px;
+  	color: #666666;
+}
+
+#physician {
+	font-family: "ITCAvantGardeStd-BoldCn";
+  	font-size: 30px;
+  	color: white;
+  	margin-top: 447px;
+  	margin-left: 47px;
+}
+
+#providing_sports {
+	font-family: "ITCAvantGardeStd-bkcn";
+  	font-size: 15px;
+  	color: #666666;
+  	text-align: center;
+  	margin-top: 54px;
+}
+
+#resources_content {
+	height: 1819px;
+}
+
+#questions_div_div2 {
+	margin-top: 156px;
+}
+
+#resources_side {
+	margin-top: 73px;
+}
+
+#resource {
+	height: 386px;
+	width: 698px;
+	margin-top: 23px;
+	background-image: url(../img/book.png);
+	background-repeat: no-repeat;
+	background-position: -322px -518px;
+	border-bottom: 1px solid #d0d0d0;
+}
+
+#resource_title {
+	padding-right: 0px;
+  	padding-left: 0px;
+  	margin-top: 25px;
+}
+
+#resource_title p {
+	font-size: 24px;
+	font-family: "ITCAvantGardeStd-Md";
+	color: #1b2878;
+}
+
+#resource_text {
+	padding-right: 0px;
+  	padding-left: 0px;
+  	margin-top: 7px;
+}
+
+#resource_text p {
+	font-size: 18px;
+	font-family: "ITCAvantGardeStd-Bk";
+	color: #666666;
+}
+
+#resource_button {
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-top: 14px;
+}
+
+#download_now p{
+	color: white;
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #1a2670;
+	height: 63px;
+	width: 253px;
+	margin-bottom: 0px;
+  	padding-top: 20px;
+}
+
+#download_now {
+	padding-left: 0px;
+  	padding-right: 0px;
+  	width: 253px;
+}
+
+#download_now a {
+	text-decoration: none;
+}
+
+#topics_side {
+	margin-top: 70px;
+}
+
+#topic_up {
+	border: 1px solid #d0d0d0;
+	height: 347px;
+}
+
+#topic {
+	background-color: #f3f1e8;
+	height: 115px;
+	padding-top: 52px;
+  	padding-left: 43px;
+  	background-image: url(../img/blue_line.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+
+#topic p {
+	font-size: 24px;
+	font-family: "ITCAvantGardeStd-Bk";
+	color: #666666;
+}
+
+#physician_videos {
+	margin-top: 33px;
+  	padding-left: 45px;
+}
+
+#physician_videos p{
+	font-size: 18px;
+	font-family: "ITCAvantGardeStd-XLt";
+	color: #666666;
+}
+
+#schedule_button {
+	margin-top: 63px;
+  	margin-left: 47px;
+}
+
+#schedule_button p {
+	height: 271px;
+	width: 271px;
+	padding-left: 57px;
+  	padding-top: 89px;
+	background-color: #02917f;
+	border-radius: 50%;
+	font-size: 22.5px;
+	font-family: "ITCAvantGardeStd-Bold";
+	color: white;
+}
+
+#schedule_button a {
+	text-decoration: none;
+}
+
+#pagination {
+	margin-top: 99px;
+	margin-left: 61px;
+}
+
+.pagination_article {
+	margin-top: 99px;
+}
+
+#pagination ul {
+	padding-left: 0px;
+}
+
+#pagination ul li {
+	display: inline-block;
+	height: 26px;
+	width: 26px;
+	margin-right: 10px;
+}
+
+#pagination ul a li p {
+	height: 26px;
+	width: 26px;
+	border: 1px solid #dddddd;
+	margin-bottom: 0px;
+	padding-left: 8px;
+  	padding-top: 3px;
+  	border-radius: 4px 4px 4px 4px;
+  	color: #b2b2b2;
+	font-family: "ITCAvantGardeStd-BkCn";
+	font-size: 12px;
+}
+
+#page_active {
+	background-color: #1a2670;
+	color: white !important;
+}
+
+#blog_content {
+	height: 1519px;
+}
+
+#article {
+	border-bottom: 1px dashed #666666;
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-top: 44px;
+  	padding-bottom: 35px;
+}
+
+#article_side2 {
+	margin-top: 100px;
+	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+#blog_article_content {
+	height: 2018px;
+}
+
+.continue_reading a{
+	color: #02917f;
+}
+
+#image_bloc {
+	height: 271px;
+	background-color: #636363;
+	background-image: url(../img/img_blog.png);
+	background-repeat: no-repeat;
+	background-position: 300px 100px;
+}
+
+#article_side {
+	margin-top: 100px;
+	background-image: url(../img/up_comments.png);
+	background-repeat: no-repeat;
+	background-position: 0px 951px;
+	padding-left: 0px;
+  	padding-right: 0px
+}
+
+#duis_mollis {
+	margin-top: 39px;
+  	padding-left: 0px;
+}
+
+#duis_mollis p {
+	font-size: 20px;
+	font-family: "ITCAvantGardeStd-Bk";
+	color: #1b2878;
+}
+
+#article_infos {
+	margin-top: 9px;
+	background-image: url(../img/calendar_blog_icon.png),url(../img/author.png),url(../img/tags.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px,218px 1px,435px 2px;
+	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+#article_infos p{
+	font-size: 15px;
+	font-family: "ITCAvantGardeStd-Bold";
+	color: #636363;
+	margin-left: 29px;
+}
+
+.second_part {
+	font-family: "ITCAvantGardeStd-XLt";
+}
+
+#sed_posuere {
+	padding-left: 0px;
+  	margin-top: 29px;
+  	padding-right: 62px;
+}
+
+#sed_posuere p{
+	font-size: 15px;
+	font-family: "ITCAvantGardeStd-Bk";
+	color: #636363;
+}
+
+#comments_writing {
+	height: 633px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 88px;
+	border-left: 1px solid #636363;
+	border-bottom: 1px solid #636363;
+	border-right: 1px solid #636363;
+
+}
+
+#my_comment {
+	padding-top: 70px;
+  	padding-left: 68px;
+	padding-right: 0px;
+	background-image: url(../img/jonno_photo.png);
+	background-repeat: no-repeat;
+	background-position: 7px 70px;
+}
+
+#comment_name {
+	font-size: 15px;
+	font-family: "ITCAvantGardeStd-Demi";
+	color: #636363;
+}
+
+#comment_section {
+	height: 89px;
+	width: 623px;
+	border: 1px solid #cdcdcd;
+	resize: none;
+	border-radius: 5px 5px;
+}
+
+#submit_button {
+	height: 60px;
+	margin-top: 5px;
+	width: 623px;
+	padding-top: 21px;
+	background-color: #1b2878;
+	color: white;
+	font-size: 18px;
+	font-family: "ITCAvantGardeStd-Demi";
+	text-align: center;
+	border-radius: 5px 5px;
+}
+
+#other_comments_name {
+	font-size: 15px;
+	font-family: "ITCAvantGardeStd-Demi";
+	color: #636363;
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-bottom: 0px;
+}
+
+#other_comments_date {
+	font-size: 15px;
+	font-family: "ITCAvantGardeStd-Demi";
+	color: #636363;
+	text-align: right;
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-bottom: 0px;
+}
+
+#other_comments_text {
+	font-size: 14px;
+	font-family: "ITCAvantGardeStd-XL4";
+	color: #636363;
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-bottom: 0px;
+}
+
+#other_comments {
+	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+#other_comments_comment1 {
+	padding-left: 68px;
+  	padding-right: 0px;
+  	margin-top: 35px;
+  	background-image: url(../img/gedy_photo.png);
+	background-repeat: no-repeat;
+	background-position: 7px 3px;
+	height: 91px;
+	border-bottom: 1px solid #e2e2e2; 
+}
+
+#other_comments_comment2 {
+	padding-left: 68px;
+  	padding-right: 0px;
+  	margin-top: 28px;
+  	background-image: url(../img/jonno_photo.png);
+	background-repeat: no-repeat;
+	background-position: 7px 3px;
+	height: 91px;
+	border-bottom: 1px solid #e2e2e2; 
+}
+
+#other_comments_comment3 {
+	padding-left: 68px;
+  	padding-right: 0px;
+  	margin-top: 28px;
+  	background-image: url(../img/rogie_photo.png);
+	background-repeat: no-repeat;
+	background-position: 7px 3px;
+}
+
+#search_title {
+	font-size: 15px;
+	font-family: "ITCAvantGardeStd-Bk";
+	color: #cacaca;
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-bottom: 0px;
+}
+
+#search_div {
+	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+#search_box {
+	padding-left: 23px;
+  	padding-right: 0px;
+  	height: 38px;
+  	font-size: 13px;
+	font-family: "ITCAvantGardeStd-Bk";
+	color: #cacaca;
+	background-image: url(../img/magnifier_tool.png);
+	background-repeat: no-repeat;
+	background-position: 212px 8px;
+	border:1px solid #cacaca;
+}
+
+#category_div {
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-top: 81px;
+}
+
+#search_side {
+	margin-top: 96px;
+}
+
+#lines {
+	font-size: 16px;
+	font-family: "ITCAvantGardeStd-Demi";
+	color: #636363;
+	height: 30px;
+	border-bottom:1px solid #cacaca;
+}
+
+#lines_sub {
+	font-family: "ITCAvantGardeStd-Bk";
+	color: #cacaca;
+	font-size: 16px;
+	height: 30px;
+	border-bottom:1px solid #cacaca;
+	padding-left: 25px;
+}
+
+#calendar {
+	padding-left: 0px;
+	padding-right: 0px;
+	border:1px solid #636363;
+	margin-top: 55px;
+}
+
+#colo a{
+	color: #636363;
+	text-decoration: none;
+}
+
+#calendar_days {
+	height: 47px;
+	font-family: "ITCAvantGardeStd-Demi";
+	color: #636363;
+	font-size: 16px;
+	text-align: center;
+}
+
+#colo{
+	height: 32px;
+	width: 38px;
+	text-align: center;
+	font-family: "ITCAvantGardeStd-Demi";
+	color: #636363;
+	font-size: 16px;
+	background-color: #f3f2f2;
+	border:1px solid white;
+}
+
+#colon a{
+	color: #636363;
+	text-decoration: none;
+}
+
+#active {
+	height: 32px;
+	width: 38px;
+	text-align: center;
+	font-family: "ITCAvantGardeStd-Demi";
+	color: white;
+	font-size: 16px;
+	background-color: #02917f;
+	border:1px solid white;
+}
+
+#active a{
+	color: white;
+	text-decoration: none;
+}
+
+#colon {
+	height: 32px;
+	width: 38px;
+	text-align: center;
+	font-family: "ITCAvantGardeStd-Demi";
+	color: #636363;
+	font-size: 16px;
+	background-color: #f3f2f2;
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+	border-left:1px solid white;
+	border-right:1px solid #636363;
+}
+
+#calendar_up {
+	background-color: #1a2670;
+	height: 41px;
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 16px;
+	text-align: center;
+	color: white;
+}
+
+#arrow {
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 16px;
+	text-align: center;
+	color: white;
+}
+
+#arrow a {
+	color: white;
+	text-decoration: none;
+}
+
+#schedule_button_blog {
+	margin-top: 57px;
+  	margin-left: -21px;
+}
+
+#schedule_button_blog p {
+	height: 271px;
+	width: 271px;
+	padding-left: 57px;
+  	padding-top: 89px;
+	background-color: #02917f;
+	border-radius: 50%;
+	font-size: 22.5px;
+	font-family: "ITCAvantGardeStd-Bold";
+	color: white;
+}
+
+#schedule_button_blog a {
+	text-decoration: none;
+}
+
+#contact_us_content {
+	height: 1100px;
+}
+
+#locations_contact {
+	height: 198px;
+	background-color: #e0dcc5;
+	padding-top: 52px;
+}
+
+#map_contact {
+	height: 618px;
+	background-image:  url(../img/active_contact_map.png),url(../img/location_pin.png),url(../img/base_location_contact.png),url(../img/map_contact.png);
+	background-repeat: no-repeat;
+	background-position: 80px 595px,637px 266px,602px 235px,-276px 0px;
+}
+
+#location_contact_name {
+	color: #1a2670;
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 20px;
+  	text-transform: uppercase;
+  	text-align: center;
+  	line-height: 22px;
+}
+
+#location_contact_adress {
+	color: #666666;
+  	font-family: "ITCAvantGardeStd-XLtCn";
+  	font-size: 18px;
+  	text-align: center;
+  	line-height: 22px;
+}
+
+#scheduling_contact {
+	margin-top: 130px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#scheduling_contact p{
+	color: #02917f;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 33px;
+  	text-align: center;
+  	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.scheduling_contact_number {
+	color: #02917f;
+  	font-family: "ITCAvantGardeStd-demi";
+  	font-size: 60px;
+  	text-align: center;
+}
+
+#form_contact {
+	margin-top: 115px;
+}
+
+#form_label {
+	color: #636363;
+  	font-family: "ITCAvantGardeStd-demi";
+  	font-size: 18px;
+  	padding-right: 0px;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+
+#form_box {
+	height: 60px;
+	width: 555px;
+	margin-bottom: 24px;
+	border: 2px solid #666666;
+	border-radius: 5px 5px;
+}
+
+#form_message {
+	height: 202px;
+	width: 555px;
+	border: 2px solid #666666;
+	border-radius: 5px 5px;
+	resize: none;
+}
+
+#submit_contact_button {
+	background-color: #02917f;
+	color: white;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 18px;
+  	height: 59;
+  	width: 555px;
+  	text-align: center;
+  	border-radius: 5px 5px;
+  	padding-top: 22px;
+  	margin-top: 32px;
+}
+
+#schedule_content {
+	height: 1818px;
+	background-image: url(../img/doctor_schedule.png);
+	background-repeat: no-repeat;
+	background-position: -272px -397px;
+}
+
+#book_form_labels {
+	color: #666666;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 16px;
+  	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+#div_padding {
+	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+.box {
+	height: 50px;
+	border:	1px solid #666666;
+	margin-bottom: 35px;
+	border-radius: 5px 5px;
+}
+
+#fill_in_the {
+	color: #02917f;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 35px;
+  	margin-top: 160px;
+	margin-bottom: 37px;
+}
+
+.to_get {
+	font-family: "ITCAvantGardeStd-demi";
+  	font-size: 40px;
+}
+
+#fill_in_the_under {
+	color: #666666;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 16px;
+  	margin-bottom: 83px;
+}
+
+#prefered_appointment {
+	background-image: url(../img/calendar_schedule.png);
+	background-repeat: no-repeat;
+	background-position: 342px 11px;
+}
+	
+#reason_for {
+	height: 168px;
+	width: 1005px;
+	resize: none;
+	border-radius: 5px 5px;
+}
+
+#submit_book_form {
+	color: white;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 16px;
+  	text-align: center;
+  	height: 60px;
+  	width: 350px;
+  	background-color: #02917f;
+  	padding-top: 22px;
+  	border-radius: 5px 5px;
+}
+
+#submit_book_div {
+	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-top: 25px;
+}
+
+#services_content {
+	height: 2419px;
+}
+
+#service_services_title {
+	color: #1b2878;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 20px;
+  	text-transform: uppercase;
+}
+
+#services_side {
+	margin-top: 150px;
+}
+
+#service_desc {
+	color: #707070;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 16px;
+}
+
+#service_list li{
+	color: #707070;
+  	font-family: "ITCAvantGardeStd-Demi";
+  	font-size: 16px;
+}
+
+#service_list {
+	padding-left: 15px;
+}
+
+#our_specialists_div {
+	height: 914px;
+	margin-top: 58px;
+	background-color: #f3f1e8;
+	background-image:  url(../img/person_specialist_pic.png),url(../img/shape_specialist.png),url(../img/shape_specialist.png),url(../img/play_button.png),url(../img/video_picture.png),url(../img/left_arrow.png),url(../img/right_arrow.png);
+	background-repeat: no-repeat;
+	background-position: 146px 121px,7px 200px,148px 282px,145px 665px,25px 591px,17px 833px,301px 833px;
+}
+
+#specialists_p {
+	color: #707070;
+  	font-family: "ITCAvantGardeStd-Demi";
+  	font-size: 20px;
+  	text-align: center;
+  	padding-left: 0px;
+  	padding-right: 0px;
+}
+
+.our_specs {
+	margin-top: 43px;
+}
+
+.educational {
+  	margin-top: 464px;
+}
+
+#specialists_video {
+	color: #707070;
+  	font-family: "ITCAvantGardeStd-Demi";
+  	font-size: 15px;
+  	text-align: center;
+  	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-top: 257px;
+}
+
+#schedule_button_services {
+	margin-top: 57px;
+  	padding-left: 44px;
+}
+
+#schedule_button_services p {
+	height: 271px;
+	width: 271px;
+	padding-left: 57px;
+  	padding-top: 89px;
+	background-color: #02917f;
+	border-radius: 50%;
+	font-size: 22.5px;
+	font-family: "ITCAvantGardeStd-Bold";
+	color: white;
+}
+
+#schedule_button_services a {
+	text-decoration: none;
+}
+
+#urgent_care_content {
+	height: 2774px;
+	padding-left: 0px;
+	padding-right: 0px;
+	background-image: url(../img/shape_urgent_1.png);
+	background-repeat: no-repeat;
+	background-position: 321px 898px;
+}
+
+#urgent_care_introduction {
+	height: 570px;
+	padding-top: 110px;
+	background-image: url(../img/doctor_patient_pic.png);
+	background-repeat: no-repeat;
+	background-position: 599px 2px;
+}
+
+#intro_urgent {
+	color: #02917f;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 45px;
+  	margin-bottom: 0px;
+}
+
+#bbj_urgent {
+	color: #02917f;
+  	font-family: "ITCAvantGardeStd-Demi";
+  	font-size: 45px;
+  	margin-bottom: 0px;
+  	height: 46px;
+}
+
+#urgent_care_urgent {
+	color: #02917f;
+  	font-family: "ITCAvantGardeStd-Demi";
+  	font-size: 76px;
+  	margin-bottom: 0px;
+}
+
+#injuries_urgent {
+	color: #868686;
+  	font-family: "ITCAvantGardeStd-Bk";
+  	font-size: 28px;
+  	margin-bottom: 0px;
+}
+
+#when_you_know_urgent {
+	color: #868686;
+  	font-family: "ITCAvantGardeStd-XLt";
+  	font-size: 16px;
+  	margin-bottom: 0px;
+  	padding-right: 128px;
+}
+
+#why_choose_our_urgent {
+	height: 484px;
+	background-color: #f3f3f3;
+	background-image:  url(../img/vector_3.png),url(../img/vector_3.png),url(../img/shape_urgent_2.png),url(../img/vector3.png),url(../img/shape_urgent_1.png),url(../img/shape_urgent_3.png),url(../img/logo_urgent.png),url(../img/shape_urgent_4.png);
+	background-repeat: no-repeat;
+	background-position: 352px 162px,117px 357px,60px 317px,404px 390px,321px 328px,299px 123px,141px 177px,30px 70px;
+}
+
+#why_choose_p {
+	color: #868686;
+  	font-family: "ITCAvantGardeStd-bk";
+  	font-size: 30px;
+  	margin-top: 115px;
+}
+
+#why_choose_ul {
+	color: #989898;
+  	font-family: "ITCAvantGardeStd-XLt";
+  	font-size: 17px;
+  	padding-left: 0px;
+  	margin-top: 59px;
+}
+
+#questions_div_urgent {
+	margin-top: 766px;
+}
+
+#questions_div2_urgent p{
+  	font-family: "ITCAvantGardeStd-MdCn";
+  	font-size: 32px;
+  	color: #02917f;
+  	text-transform: uppercase;
+  	text-align: center;
+}
+
+#need_to_urgent p{
+  	font-family: "ITCAvantGardeStd-XLtCn";
+  	font-size: 18px;
+  	color: #666666;
+  	text-transform: uppercase;
+  	text-align: center;
+  	line-height: 22px;
+}
+
+#button_blue_urgent p{
+	color: white;
+	font-family: "ITCAvantGardeStd-Demi";
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #1a2670;
+	height: 61px;
+	width: 387px;
+	margin-bottom: 0px;
+  	padding-top: 20px;
+}
+
+#button_blue_urgent a {
+	text-decoration: none;
+}
+
+#what_we_do_p {
+	color: #959595;
+	font-family: "ITCAvantGardeStd-Bk";
+	font-size: 30px;
+}
+
+#what_we_do_ul {
+	color: #a4a4a4;
+	font-family: "ITCAvantGardeStd-Bk";
+	font-size: 16px;
+}
+
+#what_we_do_ul li {
+	margin-bottom: 7px;
+}
+
+#our_specialists_p {
+	color: #1a2670;
+	font-family: "ITCAvantGardeStd-Bk";
+	font-size: 30px;
+}
+
+#our_specialists_text {
+	color: #a4a4a4;
+	font-family: "ITCAvantGardeStd-Bk";
+	font-size: 17px;
+}
+
+#evening_saturday {
+	color: #a4a4a4;
+	font-family: "ITCAvantGardeStd-Bk";
+	font-size: 14px;
+	margin-top: 97px;
+  	padding-left: 42px;
+}
+
+#what_we_do_urgent {
+	margin-top: 373px;
+}
+
+#our_specs_urgent {
+	margin-top: 373px;
+	background-image: url(../img/doors_urgent.png);
+	background-repeat: no-repeat;
+	background-position: 18px 340px;
+
+}
+
+#what_we_do_our_specs {
+	background-image:  url(../img/plus_urgent.png),url(../img/shape_green.png),url(../img/person_urgent_green.png),url(../img/person_urgent_pic2.png),url(../img/person_urgent_pic3.png),url(../img/person_urgent_pic4.png),url(../img/person_urgent_pic5.png),url(../img/person_urgent_pic6.png),url(../img/person_urgent_1.png),url(../img/zigzag_1.png),url(../img/zigzag_2.png),url(../img/zigzag_pre2.png),url(../img/zigzag_3.png);
+	background-repeat: no-repeat;
+	background-position: 436px 803px,361px 744px,347px 731px,555px 851px, 555px 1091px, 761px 976px,0px 0px,0px 0px,0px 0px,-172px -1407px,156px 697px,-171px -1405px,-169px -1405px;
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: "AvantGarde";
+    src: url(ITCAvantGardeStd-Bk.otf);
+    src: url(ITCAvantGardeStd-BkCn.otf);
+    src: url(ITCAvantGardeStd-BkCnObl.otf);
+    src: url(ITCAvantGardeStd-BkObl.otf);
+    src: url(ITCAvantGardeStd-Bold.otf);
+    src: url(ITCAvantGardeStd-BoldCnObl.otf);
+    src: url(ITCAvantGardeStd-BoldObl.otf);
+    src: url(ITCAvantGardeStd-Demi.otf);
+    src: url(ITCAvantGardeStd-DemiCnObl.otf);
+    src: url(ITCAvantGardeStd-DemiObl.otf);
+    src: url(ITCAvantGardeStd-Md.otf);
+    src: url(ITCAvantGardeStd-MdCn.otf);
+    src: url(ITCAvantGardeStd-MdCnObl.otf);
+    src: url(ITCAvantGardeStd-MdObl.otf);
+    src: url(ITCAvantGardeStd-XLt.otf);
+    src: url(ITCAvantGardeStd-XLtCn.otf);
+    src: url(ITCAvantGardeStd-XLtCnObl.otf);
+    src: url(ITCAvantGardeStd-XLtObl.otf);
+}

@@ -1,0 +1,86 @@
+#kelsy {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#nav_bar ul a li {
+	margin-right: 23px;
+}
+
+#header {
+	background-position: 1145px 15px,0px 0,-341px 0;
+}
+
+#we_now p {
+	font-size: 50px;
+}
+
+#orthopedic p {
+	font-size: 16px;
+}
+
+#button_blue p {
+	margin-left: 55px;
+}
+
+#services {
+	height: 981;
+	background-image: url(../img/shape3.png);
+	background-repeat: no-repeat;
+	background-position: 579px 73px;
+}
+
+#service1 {
+	background-image: url(../img/vector1.png),url(../img/shape.png);
+	background-position: 192px 162px,110px 111px;
+}
+
+#service2 {
+	background-image: url(../img/vector3.png),url(../img/shape2.png);
+	background-position: 192px 162px,110px 111px;
+}
+
+#service3 {
+	background-image: url(../img/vector1.png),url(../img/shape.png);
+	background-position: 192px 162px,110px 111px;
+}
+
+#service4 {
+	background-image: url(../img/vector3.png),url(../img/shape.png);
+	background-position: 192px 162px,110px 111px;
+}
+
+#questions {
+	background-image: url(../img/us_ski_team.png),url(../img/cu_buffaloes.png);
+	background-position: 64px 242px,707px 238px;
+}
+
+#contact_us_now p {
+	margin-left: 55px;
+}
+
+#locations {
+	background-image: url(../img/ellipse.png);
+	background-position: 366px 121px;
+}
+
+#social {
+	margin-top: 60px;
+	padding-left: 40px;
+}
+
+#twitter_div {
+	margin-top: 40px;
+}
+
+#number p {
+	font-size: 39px;
+}
+
+#footer {
+	background-image: url(../img/aaos_logo.png);
+	background-position: 452px 248px;
+}
+
+
+
